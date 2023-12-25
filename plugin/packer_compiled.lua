@@ -104,6 +104,11 @@ _G.packer_plugins = {
     path = "/Users/lesterdelacruz/.local/share/nvim/site/pack/packer/start/mason.nvim",
     url = "https://github.com/williamboman/mason.nvim"
   },
+  neoformat = {
+    loaded = true,
+    path = "/Users/lesterdelacruz/.local/share/nvim/site/pack/packer/start/neoformat",
+    url = "https://github.com/sbdchd/neoformat"
+  },
   ["nvim-cmp"] = {
     loaded = true,
     path = "/Users/lesterdelacruz/.local/share/nvim/site/pack/packer/start/nvim-cmp",
@@ -143,6 +148,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/lesterdelacruz/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
+  },
+  ["tmux-sessionizer"] = {
+    loaded = true,
+    path = "/Users/lesterdelacruz/.local/share/nvim/site/pack/packer/start/tmux-sessionizer",
+    url = "https://github.com/jrmoulton/tmux-sessionizer"
   },
   undotree = {
     loaded = true,
